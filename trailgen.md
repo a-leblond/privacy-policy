@@ -1,6 +1,6 @@
 # Trailgen — Politique de confidentialité
 
-*Dernière mise à jour : 28 juillet 2026*
+*Dernière mise à jour : 30 juillet 2026*
 
 **Trailgen ne collecte aucune donnée personnelle.** L'app n'a pas de compte, pas
 de serveur, pas de mesure d'audience, pas de publicité et aucun outil de pistage.
@@ -20,7 +20,7 @@ une zone géographique, le temps de la requête.
 ## Les services contactés
 
 - **Overpass API** (chemins OpenStreetMap), instances publiques :
-  overpass-api.de, overpass.private.coffee, overpass.kumi.systems, maps.mail.ru ;
+  overpass-api.de, overpass.private.coffee, overpass.kumi.systems ;
 - **Géoplateforme de l'IGN** (data.geopf.fr) — altitudes en France ;
 - **AWS Open Data** (s3.amazonaws.com) — altitudes dans le reste du monde ;
 - **Plans d'Apple** (MapKit) — fond de carte, et nom de la commune du point de
@@ -60,7 +60,7 @@ Une question : [alexis.leb@icloud.com](mailto:alexis.leb@icloud.com)
 
 # Trailgen — Privacy Policy
 
-*Last updated: 28 July 2026*
+*Last updated: 30 July 2026*
 
 **Trailgen collects no personal data.** There is no account, no server of ours, no
 analytics, no advertising and no tracking of any kind. Nobody, including the
@@ -80,7 +80,7 @@ the duration of the request.
 ## Services contacted
 
 - **Overpass API** (OpenStreetMap paths), public instances: overpass-api.de,
-  overpass.private.coffee, overpass.kumi.systems, maps.mail.ru;
+  overpass.private.coffee, overpass.kumi.systems;
 - **IGN Géoplateforme** (data.geopf.fr) — elevation in France;
 - **AWS Open Data** (s3.amazonaws.com) — elevation elsewhere;
 - **Apple Maps** (MapKit) — base map, and the town name of the starting point.
